@@ -1,9 +1,0 @@
-.DS_Store
-dist*
-dist-ssr
-*.local
-.eslintcache
-.stylelintcache
-node_modules
-/.idea
-.vscode/*
