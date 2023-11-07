@@ -5,9 +5,9 @@
     "body": [
       "<script lang=\"ts\" setup></script>\n",
       "<template>",
-      "\t<div class=\"app-container\"></div>",
+      "\t<div class=\"app-container\">123123</div>",
       "</template>\n",
-      "<!-- <style scoped>  </style> -->",
+      "<!-- <style scoped></style> -->",
       "$1"
     ],
   }
