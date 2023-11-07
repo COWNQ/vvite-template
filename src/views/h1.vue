@@ -1,10 +1,12 @@
 <script lang="ts" setup>
-import useGlobelProperties from '#/useGlobelProperties'
 </script>
 
 <template>
   <div class="app-container">
     123124
+    <el-button type="primary">
+      Primary
+    </el-button>
     <router-view />
   </div>
 </template>
