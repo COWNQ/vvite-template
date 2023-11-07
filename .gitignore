@@ -6,5 +6,4 @@ dist-ssr
 .stylelintcache
 node_modules
 /.idea
-.vscode/
-# 啊实打实大苏打
+.vscode/*
