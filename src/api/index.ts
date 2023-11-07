@@ -9,6 +9,8 @@ const api = axios.create({
 // 添加请求拦截器
 api.interceptors.request.use((config) => {
   // 在发送请求之前做些什么
+  console.log('哈哈哈')
+
   return config
 }, (error) => {
   // 对请求错误做些什么
