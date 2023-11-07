@@ -9,4 +9,4 @@ import useGlobelProperties from '#/useGlobelProperties'
   </div>
 </template>
 
-<!-- <style scoped></style> -->
+    <!-- <style scoped></style> -->
