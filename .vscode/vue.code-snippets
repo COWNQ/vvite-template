@@ -5,7 +5,7 @@
     "body": [
       "<script lang=\"ts\" setup></script>\n",
       "<template>",
-      "\t<div class=\"app-container\">...</div>",
+      "\t<div class=\"app-container\"></div>",
       "</template>\n",
       "<!-- <style scoped></style> -->",
       "$1"
