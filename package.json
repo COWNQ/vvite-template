@@ -6,8 +6,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@layui/layui-vue": "^2.11.3",
     "axios": "^1.6.0",
     "dayjs": "^1.11.10",
+    "echarts": "^5.4.3",
     "element-plus": "^2.4.2",
     "pinia": "^2.1.7",
     "vue": "^3.3.4",

@@ -7,5 +7,17 @@
   </div>
 </template>
 
-<!-- <style scoped>
-</style> -->
+<style scoped>
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+</style>
