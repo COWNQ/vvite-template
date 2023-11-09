@@ -5,15 +5,18 @@ const router = createRouter({
   routes: [{
     path: '/',
     name: 'h1',
-    component: () => import('@/views/h1.vue'),
-    children: [
-      {
-        path: '/',
-        name: 'h2',
-        component: () => import('@/views/h2.vue'),
-      },
-    ],
-  }],
+    component: () => import('@/views/echarts/bar-echarts.vue'),
+  }, {
+    path: '/barecharts',
+    name: 'barecharts',
+    component: () => import('@/views/echarts/bar-echarts.vue'),
+  },
+  {
+    path: '/pieecharts',
+    name: 'pieecharts',
+    component: () => import('@/views/echarts/pie-echarts.vue'),
+  },
+  ],
 })
 
 export default router
